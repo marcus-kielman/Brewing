@@ -17,7 +17,11 @@ activitiesLog.txt and errorsLog.txt file will be created.
 Controls in Brewing Program
 
 q     --> exits out of program
+
 help  --> provides assistance for controls and instructions in program
+
 run   --> runs brewing simulation
+
 input --> prompts input for recipe and inventory  
+
 clear --> clears the activitiesLog.txt and errorsLog.txt
